@@ -12,7 +12,7 @@ function preload() {
     game.load.spritesheet('enemyExplosion', 'assets/explosion.png', 65, 60)
     game.load.audio('mysticGohan', 'assets/mysticGohan.mp3')
     game.load.audio('vegetasacrifice1', 'assets/vegetasacrifice1.mp3')
-    game.load.image('monsterInsect', 'assets/monster2.png')
+    game.load.image('monsterInsect', 'assets/monster5.png')
     game.load.image('monster3', 'assets/monster3.png')
     game.load.image('monster4', 'assets/monster4.png')
     game.load.image('monster5', 'assets/monster5.png')

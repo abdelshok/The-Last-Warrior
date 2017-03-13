@@ -1,14 +1,11 @@
 {
-  "name": "abdel, the last super saiyan",
+  "name": "Dragon Ball Z: The last Super Saiyan",
   "version": "1.0.0",
-  "description": "Abdel becomes a super saiyan. He uses his newly acquired powers to go into space and fight off monsters. The end. ",
+  "description": "Sangoku, or Abdel, becomes a super saiyan. He uses his newly acquired powers to go into space and fight off monsters. The end. ",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sangoku & Vegeta",
-  "license": "ISC",
-  "dependencies": {
-    "phaser": "^2.6.2"
-  }
+  "license": "ISC"
 }
